@@ -1,4 +1,4 @@
-## A picture tells a thousand words
+## A picture tells a thousand words and more
 
 ## Before this PR
 
